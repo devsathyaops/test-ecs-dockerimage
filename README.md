@@ -1,4 +1,4 @@
-# test-ecs-dockerimage
+
 FROM centos:7
 RUN yum -y install httpd
 WORKDIR /tmp
